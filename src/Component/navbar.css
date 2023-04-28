@@ -1,0 +1,30 @@
+.navwala{
+    width: 60%;
+    height:50px ;
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-around;
+
+    flex-direction: row;
+    align-items: center;
+    font-size: 800;
+    
+    
+}
+.mainnavbar{
+   width: 100%;
+   background-color: black;
+   padding: 10px;
+   color: white;
+}
+.navwala ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.navwala ul li{
+    margin-left: 50px;
+    font-size: 30px;
+}
